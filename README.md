@@ -4,7 +4,7 @@
 Refactor our code used to analyze the small stock market dataset in Module 2 to run more efficiently so that it can be used to analyze stock volumes and returns on larger datasets quickly. 
 ### Purpose
 Determining if refactoring our code made it run more efficiently. 
-## Analysis and Challenges
+## Analysis
 
 ### Analysis of efficiency gained by refactoring 
 
@@ -15,10 +15,9 @@ Determining if refactoring our code made it run more efficiently.
   - ![](Resources/OC_2017.png)
   - ![](Resources/OC_2018.png)
   
-The graphics below show the execution times of both the original code and the refactored code. The refactored code ran 86.5% and 85.9% more efficiently for 2017 and 2018 respectively. 
+The graphics above show the execution times of both the original code and the refactored code. The refactored code ran 86.5% and 85.9% more efficiently for 2017 and 2018 respectively. 
 
-The top graphic shows that the late spring early summer months generally have the highest volumes of new campaign launches, May leads the way followed by June and July. Not only do May, June, and July have the highest launch volumes but also the highest rate of success as shown in the bottom graphic above. December on the other hand has both the lowest launch volume and success rate.
-### Analysis of Outcomes Based on Goals
+### Analysis of Stock Performance
 The graphics below show outcomes based on campaign funding goal within the Play subcategory (analysis based on 1,047 unique campaigns launched between 2010-2017). 
 ![](Resources/Outcomes_vs_Goals.png)
 ![](Resources/Goal_Volumes_and_Outcomes.png)
