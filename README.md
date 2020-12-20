@@ -8,12 +8,12 @@ Determining if refactoring our code made it run more efficiently.
 
 ### Analysis of Outcomes Based on Launch Date
 The graphics below show funding outcomes based on campaign launch month within the Theatre category (analysis based on 1,369 unique campaigns launched between 2010-2017). 
-Refactored Code
-- ![](Resources/VBA_Challenge_2017.png)
-- ![](Resources/VBA_Challenge_2018.png)
-Original Code
-- ![](Resources/OC_2017.png)
-- ![](Resources/OC_2018.png)
+- Refactored Code
+  - ![](Resources/VBA_Challenge_2017.png)
+  - ![](Resources/VBA_Challenge_2018.png)
+- Original Code
+  - ![](Resources/OC_2017.png)
+  - ![](Resources/OC_2018.png)
 
 The top graphic shows that the late spring early summer months generally have the highest volumes of new campaign launches, May leads the way followed by June and July. Not only do May, June, and July have the highest launch volumes but also the highest rate of success as shown in the bottom graphic above. December on the other hand has both the lowest launch volume and success rate.
 ### Analysis of Outcomes Based on Goals
