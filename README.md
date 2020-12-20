@@ -18,9 +18,12 @@ Determining if refactoring our code made it run more efficiently.
 The graphics above show the execution times of both the original code and the refactored code. The refactored code ran 86.5% and 85.9% more efficiently for 2017 and 2018 respectively. 
 
 ### Analysis of Stock Performance
-The graphics below show outcomes based on campaign funding goal within the Play subcategory (analysis based on 1,047 unique campaigns launched between 2010-2017). 
-![](Resources/Outcomes_vs_Goals.png)
-![](Resources/Goal_Volumes_and_Outcomes.png)
+
+
+The graphics below show the total trade volumes and the % return for the individual "green" stocks in 2017 and 2018.
+
+![](Resources/StockPerformance_2017.png)
+![](Resources/StockPerformance_2018.png)
 The "Outcomes Based on Goal" graphic above shows that the campaigns with the highest rate of success are in the found within the two lowest goal buckets (76% and 73% respectively). Although there is an elevated rate of success for the 35k-40k and 40k-45k buckets, the volumes are too low (see "Goal Volumes and Outcomes" chart above) to draw any meaningful conclusions. 
 ### Challenges and Difficulties Encountered
 Although there were minimal issues faced performing this analysis, the volume issue stated above can makes it difficult to make confident recommendations based on more granular criteria elements. 
