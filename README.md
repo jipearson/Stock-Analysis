@@ -8,8 +8,11 @@ Determining the ideal launch date and appetite for funding.
 
 ### Analysis of Outcomes Based on Launch Date
 The graphics below show funding outcomes based on campaign launch month within the Theatre category (analysis based on 1,369 unique campaigns launched between 2010-2017). 
+
 ![](Resources/VBA_Challenge_2017.png)
+
 ![](Resources/VBA_Challenge_2018.png)
+
 The top graphic shows that the late spring early summer months generally have the highest volumes of new campaign launches, May leads the way followed by June and July. Not only do May, June, and July have the highest launch volumes but also the highest rate of success as shown in the bottom graphic above. December on the other hand has both the lowest launch volume and success rate.
 ### Analysis of Outcomes Based on Goals
 The graphics below show outcomes based on campaign funding goal within the Play subcategory (analysis based on 1,047 unique campaigns launched between 2010-2017). 
