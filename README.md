@@ -9,11 +9,9 @@ Determining if refactoring our code made it run more efficiently.
 ### Analysis of efficiency gained by refactoring 
 
 - Refactored Code
-  - ![](Resources/VBA_Challenge_2017.png)
-  - ![](Resources/VBA_Challenge_2018.png)
+  - ![](Resources/VBA_Challenge_2017.png) ![](Resources/VBA_Challenge_2018.png)
 - Original Code
-  - ![](Resources/OC_2017.png)
-  - ![](Resources/OC_2018.png)
+  - ![](Resources/OC_2017.png) ![](Resources/OC_2018.png)
   
 The graphics above show the execution times of both the original code and the refactored code. The refactored code ran 86.5% and 85.9% more efficiently for 2017 and 2018 respectively. 
 
