@@ -36,22 +36,5 @@ It's difficult to pinpoint the exact driver of the shift using only this dataset
     - Advantages: Properly refactored code will run more faster and when run on larger datasets can save significant processing time.
     - Disadvantages: If your original code is in proper working order refactoring it can be time consuming with minimal actual realized efficiency gains. 
 2. How do these pros and cons apply to refactoring the original VBA script? 
-    - The advantage here is that we were able to gain significant efficiency from the refactor - if we were running this on much larger datasets, like the market as a whole, then the efficiency gain would be much more meaningful. 
-    
-## Results
-
-- Outcomes based on Launch Date conclusions.
-  - Months with higher volumes of launched campaigns tend to have higher success rates. 
-  - Even though May typically has the highest volume of new campaign launches it is still the most attractive month from a rate of success standpoint. 
-
-- Outcomes based on Goals conclusions. 
-  - We generally see a deterioration in the rate of successs as the campaign goal increases (again - difficult to extract meaningful conclusions from the higher goal buckets)
-  - While only 31% of campaigns have a goal greater than 5k the same population accounts for nearly 46% of failed campaigns.  
-
-- Dataset limitations.
-  - There are relatively few records in the data which makes it difficult to disect more granular categories. 
-  - We have no way to measure elements not listed in the data set, specifically the visual factors that help determine a campaigns success/failure. 
-  
-- What are some other possible tables and/or graphs that we could create?
-  - Layer both goals and launch dates to see if the results change significantly when working in tandem.  
-  - Determine success rates based on the campaign funding window (difference between the date created and the date ended) and visulaize the results on a line chart. 
+    - The advantage here is that we were able to gain significant efficiency from the refactor - if we were running this on much larger datasets, like the market as a whole, then the efficiency gain would be much more meaningful in terms of total time. 
+    - The disadvantage in this example would be if we were only running this code on these 12 stocks. We may have decreased the processing time by 85%+ but that only translates to a little over 1 second run!
