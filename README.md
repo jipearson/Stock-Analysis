@@ -36,7 +36,7 @@ It's difficult to pinpoint the exact driver of the shift using only this dataset
     - Advantages:
     - Disadvantages 
 2. How do these pros and cons apply to refactoring the original VBA script? 
-    -
+    
 ## Results
 
 - Outcomes based on Launch Date conclusions.
