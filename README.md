@@ -33,8 +33,10 @@ It's difficult to pinpoint the exact driver of the shift using only this dataset
 
 ### Summary
 1. What are the advantages or disadvantages of refactoring code? 
-  - Advantages:
-  - Disadvantages 
+    - Advantages:
+    - Disadvantages 
+2. How do these pros and cons apply to refactoring the original VBA script? 
+    -
 ## Results
 
 - Outcomes based on Launch Date conclusions.
