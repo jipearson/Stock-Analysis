@@ -33,9 +33,10 @@ It's difficult to pinpoint the exact driver of the shift using only this dataset
 
 ### Summary
 1. What are the advantages or disadvantages of refactoring code? 
-    - Advantages:
-    - Disadvantages 
+    - Advantages: Properly refactored code will run more faster and when run on larger datasets can save significant processing time.
+    - Disadvantages: If your original code is in proper working order refactoring it can be time consuming with minimal actual realized efficiency gains. 
 2. How do these pros and cons apply to refactoring the original VBA script? 
+    - The advantage here is that we were able to gain significant efficiency from the refactor - if we were running this on much larger datasets, like the market as a whole, then the efficiency gain would be much more meaningful. 
     
 ## Results
 
