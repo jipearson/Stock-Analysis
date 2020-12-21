@@ -18,11 +18,12 @@ The graphics above show the execution times of both the original code and the re
 ### Analysis of Stock Performance
 
 
-The graphics below show the total trade volumes and the % return for the individual "green" stocks in 2017 and 2018.
+The graphics below show the total trade volumes and the % return for the each of the individual "green" stocks in 2017 and 2018.
 
-![](Resources/StockPerformance_2017.png)
-![](Resources/StockPerformance_2018.png)
-The "Outcomes Based on Goal" graphic above shows that the campaigns with the highest rate of success are in the found within the two lowest goal buckets (76% and 73% respectively). Although there is an elevated rate of success for the 35k-40k and 40k-45k buckets, the volumes are too low (see "Goal Volumes and Outcomes" chart above) to draw any meaningful conclusions. 
+![](Resources/StockPerformance_2017.png) ![](Resources/StockPerformance_2018.png)
+
+Although the trade volume changed very little between 2017 and 2018 (up 4.4%) the average returns dropped significantly. In 2017 the year over year average rate of return was a eye popping 67.3%, in 2018 the year over year return dropped all the way into the red at -8.5% on average. In 2017 11 out of the 12 stocks analyzed had a positive rate of return, 4 of which increased by over 100%. In 2018 it was a much different story with only 2/12 stocks having a positive return and 2 stocks losing over 50% of their value. 
+
 ### Challenges and Difficulties Encountered
 Although there were minimal issues faced performing this analysis, the volume issue stated above can makes it difficult to make confident recommendations based on more granular criteria elements. 
 ## Results
