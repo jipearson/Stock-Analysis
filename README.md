@@ -29,10 +29,12 @@ Although the trade volume changed very little between 2017 and 2018 (up 4.4%) th
 What caused this cosmic shift from 2017 to 2018? Was it connected to changes in regulataions or politics, can it be attibuted to micro or macroeconomic factors?  
 
 It's difficult to pinpoint the exact driver of the shift using only this dataset which includes but a small subset of the overall market. A quick google search shows us the the market as a whole saw lower returns and higher volatility in 2018 compared to 2017. 
-(Source:[2017 vs. 2018 in the Stock Market](https://awealthofcommonsense.com/2019/01/2017-vs-2018-in-the-stock-market/#:~:text=In%202017%20the%20S%26P%20500,markets%20by%20more%20than%209%25.))
+(Source: [2017 vs. 2018 in the Stock Market](https://awealthofcommonsense.com/2019/01/2017-vs-2018-in-the-stock-market/#:~:text=In%202017%20the%20S%26P%20500,markets%20by%20more%20than%209%25.))
 
-### Challenges and Difficulties Encountered
-Although there were minimal issues faced performing this analysis, the volume issue stated above can makes it difficult to make confident recommendations based on more granular criteria elements. 
+### Summary
+1. What are the advantages or disadvantages of refactoring code? 
+  - Advantages:
+  - Disadvantages 
 ## Results
 
 - Outcomes based on Launch Date conclusions.
